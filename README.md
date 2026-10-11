@@ -16,7 +16,7 @@ an http service that tracks how many copies of video games are in-stock or out-o
 # setup
 
 ```
-git clone https://github.com/[your-user]/inventory-service.git
+git clone https://github.com/vintenda/inventory-service.git
 cd inventory_service
 python3 -m venv .venv
 source .venv/bin/activate
